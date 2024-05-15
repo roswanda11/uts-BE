@@ -1,6 +1,6 @@
-| Nama      | Muhammad Din Al Ayubi |
+| Nama      |Roswanda NUraini |
 | ----------- | ----------- |
-| NIM     | 312210293       |
+| NIM     | 312210328       |
 | Kelas   | TI.22.A.3        |
 | Tugas   | UTS BISNIS ELEKRONIK       |
 
@@ -67,7 +67,7 @@
  - OTP via WA dan Email
 ```
 # Halaman Administrator
-![img](bisnis/kontributor.png) 
+![img](bisnis/4.png) 
 ```bash
  - Dashboard
  - Menu Utama
